@@ -1,3 +1,0 @@
-- We start by creating a Symfony skeleton. This can be done through the Symfony binary by with
-  - symfony new project-name
-- 
